@@ -3,3 +3,8 @@ Twofunction - I have added a very important 2nd function here
 Threefunction - I have added a very important 3rd function here
 Fourfunction - I have added a very important 4th function here
 Fivefunction - I have added a very important 5th function here
+
+A new div is added to master branch
+
+
+A new chart has been added to the file
