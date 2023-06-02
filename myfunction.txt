@@ -1,4 +1,5 @@
-onefunction - I have added a very very important function here
+
+onefunction - I have added a very important one important function here
 Twofunction - I have added a very important 2nd function here
 Threefunction - I have added a very important 3rd function here
 Fourfunction - I have added a very important 4th function here
@@ -9,4 +10,8 @@ A new div is added to master branch
 
 A new chart has been added to the file
 
+
 Added a function for logout
+
+
+
